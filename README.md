@@ -1,2 +1,3 @@
-# cucumber-java
-Repository for cucumber java book
+# INDEX
+
+__Chapter 2:__ Creating a feature.
