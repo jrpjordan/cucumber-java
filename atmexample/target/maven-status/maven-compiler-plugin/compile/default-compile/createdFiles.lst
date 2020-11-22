@@ -1,8 +1,0 @@
-com/joser/servlet/WithdrawalServlet.class
-com/joser/model/AutomatedTeller.class
-com/joser/AtmServer.class
-com/joser/model/Account.class
-com/joser/servlet/AtmServlet.class
-com/joser/model/Money.class
-com/joser/model/Teller.class
-com/joser/model/CashSlot.class

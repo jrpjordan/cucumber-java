@@ -1,8 +1,0 @@
-/home/joseramon.perez/dev/personal_repository/cucumber-java/atmexample/src/test/java/com/joser/steps/AccountSteps.java
-/home/joseramon.perez/dev/personal_repository/cucumber-java/atmexample/src/test/java/com/joser/helper/KnowsTheDomain.java
-/home/joseramon.perez/dev/personal_repository/cucumber-java/atmexample/src/test/java/com/joser/hooks/ServerHooks.java
-/home/joseramon.perez/dev/personal_repository/cucumber-java/atmexample/src/test/java/com/joser/steps/TellerSteps.java
-/home/joseramon.perez/dev/personal_repository/cucumber-java/atmexample/src/test/java/com/joser/steps/CashSlotSteps.java
-/home/joseramon.perez/dev/personal_repository/cucumber-java/atmexample/src/test/java/com/joser/RunCucumberTest.java
-/home/joseramon.perez/dev/personal_repository/cucumber-java/atmexample/src/test/java/com/joser/ui/AtmUserInterface.java
-/home/joseramon.perez/dev/personal_repository/cucumber-java/atmexample/src/test/java/com/joser/hooks/WebDriverHooks.java
